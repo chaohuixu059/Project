@@ -1,0 +1,217 @@
+[
+  {
+    "Movie": [
+      {
+        "Title": "Forrest Gump"
+      },
+      {
+        "Genre": "Drama"
+      },
+      {
+        "Director": {
+          "Name": "Robert Zemeckis"
+        }
+      },
+      {
+        "Studio": "Paramount Pictures"
+      },
+      {
+        "Year": 1994
+      }
+    ]
+  },
+  {
+    "Movie": [
+      {
+        "Title": "Get Out"
+      },
+      {
+        "Genre": "Horror"
+      },
+      {
+        "Director": {
+          "Name": "Jordan Peele"
+        }
+      },
+      {
+        "Studio": "Universal Pictures"
+      },
+      {
+        "Year": 2017
+      }
+    ]
+  },
+  {
+    "Movie": [
+      {
+        "Title": "Inception"
+      },
+      {
+        "Genre": "Science Fiction"
+      },
+      {
+        "Director": {
+          "Name": "Christopher Nolan"
+        }
+      },
+      {
+        "Studio": "Warner Bros."
+      },
+      {
+        "Year": 2010
+      }
+    ]
+  },
+  {
+    "Movie": [
+      {
+        "Title": "Pulp Fiction"
+      },
+      {
+        "Genre": "Crime"
+      },
+      {
+        "Director": {
+          "Name": "Quentin Tarantino"
+        }
+      },
+      {
+        "Studio": "Miramax Films"
+      },
+      {
+        "Year": 1994
+      }
+    ]
+  },
+  {
+    "Movie": [
+      {
+        "Title": "Spirited Away"
+      },
+      {
+        "Genre": "Animation"
+      },
+      {
+        "Director": {
+          "Name": "Hayao Miyazaki"
+        }
+      },
+      {
+        "Studio": "Studio Ghibli"
+      },
+      {
+        "Year": 2001
+      }
+    ]
+  },
+  {
+    "Movie": [
+      {
+        "Title": "The Dark Knight"
+      },
+      {
+        "Genre": "Action"
+      },
+      {
+        "Director": {
+          "Name": "Christopher Nolan"
+        }
+      },
+      {
+        "Studio": "Warner Bros."
+      },
+      {
+        "Year": 2008
+      }
+    ]
+  },
+  {
+    "Movie": [
+      {
+        "Title": "The Godfather"
+      },
+      {
+        "Genre": "Crime"
+      },
+      {
+        "Director": {
+          "Name": "Francis Ford Coppola"
+        }
+      },
+      {
+        "Studio": "Paramount Pictures"
+      },
+      {
+        "Year": 1972
+      }
+    ]
+  },
+  {
+    "Movie": [
+      {
+        "Title": "The Matrix"
+      },
+      {
+        "Genre": "Science Fiction"
+      },
+      {
+        "Director": {
+          "Name": "Lana Wachowski"
+        }
+      },
+      {
+        "Director": {
+          "Name": "Lilly Wachowski"
+        }
+      },
+      {
+        "Studio": "Warner Bros."
+      },
+      {
+        "Year": 1999
+      }
+    ]
+  },
+  {
+    "Movie": [
+      {
+        "Title": "The Shawshank Redemption"
+      },
+      {
+        "Genre": "Drama"
+      },
+      {
+        "Director": {
+          "Name": "Frank Darabont"
+        }
+      },
+      {
+        "Studio": "Castle Rock Entertainment"
+      },
+      {
+        "Year": 1994
+      }
+    ]
+  },
+  {
+    "Movie": [
+      {
+        "Title": "Toy Story"
+      },
+      {
+        "Genre": "Animation"
+      },
+      {
+        "Director": {
+          "Name": "John Lasseter"
+        }
+      },
+      {
+        "Studio": "Pixar"
+      },
+      {
+        "Year": 1995
+      }
+    ]
+  }
+]

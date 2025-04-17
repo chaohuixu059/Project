@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<Movies>
+  <Movie>
+    <Title>Forrest Gump</Title>
+    <Genre>Drama</Genre>
+    <Director>
+      <Name>Robert Zemeckis</Name>
+    </Director>
+    <Studio>Paramount Pictures</Studio>
+    <Year>1994</Year>
+  </Movie>
+  <Movie>
+    <Title>Get Out</Title>
+    <Genre>Horror</Genre>
+    <Director>
+      <Name>Jordan Peele</Name>
+    </Director>
+    <Studio>Universal Pictures</Studio>
+    <Year>2017</Year>
+  </Movie>
+  <Movie>
+    <Title>Inception</Title>
+    <Genre>Science Fiction</Genre>
+    <Director>
+      <Name>Christopher Nolan</Name>
+    </Director>
+    <Studio>Warner Bros.</Studio>
+    <Year>2010</Year>
+  </Movie>
+  <Movie>
+    <Title>Pulp Fiction</Title>
+    <Genre>Crime</Genre>
+    <Director>
+      <Name>Quentin Tarantino</Name>
+    </Director>
+    <Studio>Miramax Films</Studio>
+    <Year>1994</Year>
+  </Movie>
+  <Movie>
+    <Title>Spirited Away</Title>
+    <Genre>Animation</Genre>
+    <Director>
+      <Name>Hayao Miyazaki</Name>
+    </Director>
+    <Studio>Studio Ghibli</Studio>
+    <Year>2001</Year>
+  </Movie>
+  <Movie>
+    <Title>The Dark Knight</Title>
+    <Genre>Action</Genre>
+    <Director>
+      <Name>Christopher Nolan</Name>
+    </Director>
+    <Studio>Warner Bros.</Studio>
+    <Year>2008</Year>
+  </Movie>
+  <Movie>
+    <Title>The Godfather</Title>
+    <Genre>Crime</Genre>
+    <Director>
+      <Name>Francis Ford Coppola</Name>
+    </Director>
+    <Studio>Paramount Pictures</Studio>
+    <Year>1972</Year>
+  </Movie>
+  <Movie>
+    <Title>The Matrix</Title>
+    <Genre>Science Fiction</Genre>
+    <Director>
+      <Name>Lana Wachowski</Name>
+    </Director>
+    <Director>
+      <Name>Lilly Wachowski</Name>
+    </Director>
+    <Studio>Warner Bros.</Studio>
+    <Year>1999</Year>
+  </Movie>
+  <Movie>
+    <Title>The Shawshank Redemption</Title>
+    <Genre>Drama</Genre>
+    <Director>
+      <Name>Frank Darabont</Name>
+    </Director>
+    <Studio>Castle Rock Entertainment</Studio>
+    <Year>1994</Year>
+  </Movie>
+  <Movie>
+    <Title>Toy Story</Title>
+    <Genre>Animation</Genre>
+    <Director>
+      <Name>John Lasseter</Name>
+    </Director>
+    <Studio>Pixar</Studio>
+    <Year>1995</Year>
+  </Movie>
+</Movies>
